@@ -1,3 +1,9 @@
+linux (7.0.11-76070011.202606011647sf1) resolute; urgency=low
+
+  * Enable custom flags
+
+ -- Scott Fudally <swshifu@proton.me>  Sun, 28 Jun 2026 08:23:50 -0600
+
 linux (7.0.11-76070011.202606011647) resolute; urgency=low
 
   [ Mainline Build ]

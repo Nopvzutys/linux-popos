@@ -16580,7 +16580,7 @@ CONFIG_X86_MEM_ENCRYPT                          policy<{'amd64': 'y'}>
 CONFIG_X86_MINIMUM_CPU_FAMILY                   policy<{'amd64': '64'}>
 CONFIG_X86_MPPARSE                              policy<{'amd64': 'y'}>
 CONFIG_X86_MSR                                  policy<{'amd64': 'm'}>
-CONFIG_X86_NATIVE_CPU                           policy<{'amd64': 'n'}>
+CONFIG_X86_NATIVE_CPU                           policy<{'amd64': 'y'}>
 CONFIG_X86_NEED_RELOCS                          policy<{'amd64': 'y'}>
 CONFIG_X86_NUMACHIP                             policy<{'amd64': 'y'}>
 CONFIG_X86_P4_CLOCKMOD                          policy<{'amd64': 'm'}>
